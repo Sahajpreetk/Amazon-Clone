@@ -15,4 +15,4 @@ This project replicates the basic UI and functionality of Amazon.
    ```bash
    git clone https://github.com/Sahajpreetk/Amazon-Clone.git
 ## 📷 Screenshots
-![Homepage](screenshot/Homepage.png)
+![Homepage](screenshot/Homepage.png.png)
