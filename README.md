@@ -16,3 +16,4 @@ This project replicates the basic UI and functionality of Amazon.
    git clone https://github.com/Sahajpreetk/Amazon-Clone.git
 ## 📷 Screenshots
 ![Homepage](screenshot/Homepage.png.png)
+Note: Optimized for Desktop screens (1920 \times 1080). Mobile responsiveness is under development.
